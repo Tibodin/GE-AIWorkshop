@@ -1,0 +1,7 @@
+{
+  "name": "NeonFit - Modern Fitness AI Coach",
+  "description": "A futuristic fitness coaching platform featuring AI-powered advice, workout categorization, and a weekly training schedule with a sleek dark neon orange aesthetic.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
